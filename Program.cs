@@ -11,30 +11,6 @@ Console.WriteLine("Ведите второе число: ");
 
 int b = Convert.ToInt32(Console.ReadLine());
 
-if (a == b);
-
-{
-   { Console.Write(a = b); }
-
-
-
-{
-    if (a < b); 
-
-
-}}
-
-
-{
-    
-    { Console.Write("max = ", b); }
-
-
-   
-     
-{
-    if (a > b) ;
-    
-    { Console.Write("max = ", a); }
-
-}}
+if (a == b) Console.Write("a = b" ); 
+if (a < b);Console.Write("max = "+ b);
+if (a > b) Console.Write("max = "+ a);
